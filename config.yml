@@ -21,9 +21,10 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/clearstatus.svg
-  description_header: "Information about <a class='text-grey-darkest' title='Visit
-    IBM Consultancy Advantage'
-    href='https://servicesessentials.ibm.com/launchpad'>ICA Launchpad</a> "
+  description_header: Information about <a class="text-grey-darkest" title="Visit
+    IBM Consultancy Advantage"
+    href="https://servicesessentials.ibm.com/launchpad" rel="noopener
+    noreferrer">ICA Launchpad</a>
   copyrightHolder: IBM
   eventsPerPage: 10
   iconType: image/png
