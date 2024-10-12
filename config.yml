@@ -23,8 +23,7 @@ params:
   logo: /images/clearstatus.svg
   description_header: Information about <a class="text-grey-darkest" title="Visit
     IBM Consultancy Advantage"
-    href="https://servicesessentials.ibm.com/launchpad" target="_blank"
-    rel="noopener noreferrer">ICA Launchpad</a>
+    href="https://servicesessentials.ibm.com/launchpad">ICA Launchpad</a>
   copyrightHolder: IBM
   eventsPerPage: 10
   iconType: image/png
