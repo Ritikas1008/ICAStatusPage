@@ -1,4 +1,5 @@
 title: ICA Status Page
+baseURL: https://servicesessentials.ibm.com/launchpad
 languageCode: en
 params:
   shortDateFormat: 15:04 — Jan 2
@@ -21,8 +22,7 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/clearstatus.svg
-  description_header: <a class='text-grey-darkest' title='Visit ICA homepage'
-    href='https://servicesessentials.ibm.com/launchpad'>ICA LaunchPad</a>
+  description_header: ""
   copyrightHolder: IBM
   eventsPerPage: 10
   iconType: image/png
