@@ -27,6 +27,8 @@ params:
   copyrightHolder: IBM
   eventsPerPage: 10
   iconType: image/png
+  groups:
+    - UKI
   icon: /images/clearstatus.png
   description_footer: <a class='text-grey-darkest' title='Visit ICA homepage'
     href='https://servicesessentials.ibm.com/launchpad'>ICA LaunchPad</a>
